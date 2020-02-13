@@ -1,2 +1,2 @@
 # Godot-Games
-Little projects I made in Godot game engine
+Files from some little projects I made in Godot game engine
